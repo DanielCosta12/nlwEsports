@@ -5,8 +5,6 @@
 [🔧 Acesse aqui](https://danielcosta12.github.io/nlwEsports/)
 =======
 <a href="https://danielcosta12.github.io/nlwEsports/" target="_blank">[🔧 Acesse aqui]</a>
->>>>>>> b413142416e6c65dc7cc65e314626a4448820c7c
-
 ## 👨‍💻 Tecnologias
 
 - HTML
