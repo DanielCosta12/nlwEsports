@@ -1,7 +1,7 @@
 # NLW eSports - Trilha Explorer
 > Projeto construido do evento Next Level Week da Rocketseat.
 
-[🔧 Acesse aqui](https://danielcosta12.github.io/nlwEsports/)
+[🔧 Acesse aqui](https://danielcosta12.github.io/nlwEsports/ target="_blank")
 
 ## 👨‍💻 Tecnologias
 
