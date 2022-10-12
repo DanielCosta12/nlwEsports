@@ -86,10 +86,11 @@ section p {
 }
 section ul {
   display: flex;
-  flex-direction: wrap;
+  flex-wrap: wrap;
   gap: 16px;
   margin-top: 24px;
 }
+
 li {
   list-style: none;
 }
