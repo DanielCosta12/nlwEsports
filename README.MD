@@ -4,6 +4,9 @@
 <a href="https://danielcosta12.github.io/nlwEsports/" target="_blank">[🔧 Acesse aqui]</a>
 ## 👨‍💻 Tecnologias
 
+
+- Vite
+- VueJS
 - HTML
 - CSS
 
