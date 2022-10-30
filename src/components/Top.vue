@@ -1,3 +1,10 @@
+<template>
+  <header>
+    <div>
+      <img :src="srcImg" :alt="alt" />
+    </div>
+  </header>
+</template>
 <script>
 export default {
   name: "Top",
@@ -9,14 +16,6 @@ export default {
   },
 };
 </script>
-<template>
-  <header>
-    <div>
-      <img v-bind:src="srcImg" v-bind:alt="alt" />
-    </div>
-  </header>
-</template>
-
 <style scoped>
 header {
   padding-top: 32px;
